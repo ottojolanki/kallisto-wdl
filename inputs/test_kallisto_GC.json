@@ -1,0 +1,10 @@
+{
+    "kallisto_quant.index" : "gs://kallisto-runs/indexes/kallisto_gencodeV24_k31_ambion1spikes.idx",
+    "kallisto_quant.reads1" : "gs://sailfish-runs/input-files/ENCSR142YZV-chr19/ENCSR142YZV_rep1_1_star_genome_correct_sort_chr19only_R1.fastq.gz",
+    "kallisto_quant.reads2" : "gs://sailfish-runs/input-files/ENCSR142YZV-chr19/ENCSR142YZV_rep1_1_star_genome_correct_sort_chr19only_R2.fastq.gz",
+    "kallisto_quant.forward_stranded" : false,
+    "kallisto_quant.reverse_stranded" : true,
+    "kallisto_quant.ncpu" : 16,
+    "kallisto_quant.memGB" : 60,
+    "kallisto_quant.kallisto_disks" : "local-disk 200 SSD"
+}

@@ -1,0 +1,10 @@
+{
+    "kallisto_quant.index" : "gs://kallisto-runs/indexes/kallisto_gencodeV24_k31_ambion1spikes.idx",
+    "kallisto_quant.reads1" : "gs://sailfish-runs/input-files/ENCSR000AEC/ENCLB035ZZZ_1/ENCFF001RFH_R1.fastq",
+    "kallisto_quant.reads2" : "gs://sailfish-runs/input-files/ENCSR000AEC/ENCLB035ZZZ_1/ENCFF001RFG_R2.fastq",
+    "kallisto_quant.forward_stranded" : false,
+    "kallisto_quant.reverse_stranded" : true,
+    "kallisto_quant.ncpu" : 16,
+    "kallisto_quant.memGB" : 60,
+    "kallisto_quant.kallisto_disks" : "local-disk 200 SSD"
+}

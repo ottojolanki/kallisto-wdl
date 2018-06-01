@@ -1,0 +1,10 @@
+{
+    "kallisto_quant.index" : "",
+    "kallisto_quant.reads1" : "",
+    "kallisto_quant.reads2" : "",
+    "kallisto_quant.forward_stranded" : false,
+    "kallisto_quant.reverse_stranded" : true,
+    "kallisto_quant.ncpu" : 16,
+    "kallisto_quant.memGB" : 60,
+    "kallisto_quant.kallisto_disks" : "local-disk 200 SSD"
+}
